@@ -1,0 +1,6 @@
+//FOUR001X JOB 'COMP COB',MSGCLASS=X,CLASS=C,NOTIFY=&SYSUID             00010000
+//EXECUTAR EXEC PGM=FR01CB01                                            00020000
+//STEPLIB  DD DSN=PR.FOUR001.OBJ,DISP=SHR                               00030000
+//SYSIN    DD *                                                         00040000
+JOAO                                                                    00050000
+SILVA                                                                   00060000
